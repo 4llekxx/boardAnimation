@@ -1,1 +1,1 @@
-# Animation-of-board-elements
+# Animation of board elements
